@@ -9,4 +9,5 @@
 /build/
 /vendor/
 /bin/
-/composer.phar///prova
+/composer.phar
+///prova
